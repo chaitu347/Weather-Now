@@ -218,10 +218,6 @@ npm run build
 - Ensure mobile responsiveness
 
 
-## Support
 
-For issues, questions, or contributions, please open an issue on the GitHub repository or contact the development team.
-
----
 
 **Built with ❤️ for outdoor enthusiasts who need reliable weather information on the go.**
